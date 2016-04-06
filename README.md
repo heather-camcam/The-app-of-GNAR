@@ -1,11 +1,15 @@
 Salty Daze
 ----------
 
-Find your perfect surf spot using the Salty Daze website to access realtime surf-weather stats alongside live webcam and image streams of what the beach conditions are right now.
+Find your perfect surf spot using the Salty Daze website to access realtime surf-weather stats alongside live webcam and image streams of what the beach conditions look like right now.
 
 Designed and developed in a 2 week sprint for our final project at Makers Academy.
 
 https://mighty-sands-50291.herokuapp.com/#/map
+
+![alt text](http://i.imgur.com/k7X5kXX.png)
+
+![alt text](http://i.imgur.com/v09fahl.png)
 
 Problem statement
 -----------------
