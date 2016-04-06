@@ -1,9 +1,9 @@
 Salty Daze
 ----------
 
-Makers Academy final project made with Heather Campbell, Michael Collins, Harry Gordon and myself.
+Find your perfect surf spot using the Salty Daze website to access realtime surf-weather stats alongside live webcam and image streams of what the beach conditions are right now.
 
-The app was pitched and built in a 2 week sprint.
+Designed and developed in a 2 week sprint for our final project at Makers Academy.
 
 https://mighty-sands-50291.herokuapp.com/#/map
 
@@ -15,17 +15,16 @@ Problem statement
 
 Technologies
 ------------
-* Angular JS
+* AngularJS
 * Ruby on Rails (we decoupled this part of the app and please see GNAR-api repo for more info. It simply serves json with our beach surf location co-ordinates)
 * Marine weather API
 * Instagram API
-* GNAR-api (our API mentioned above)
+* Google Maps API
 * HMTL and CSS (no Bootstrap!)
 
-Set-up
-------
-* clone this repo
-* clone GNAR-api repo
-* GNAR-API- run bundle, then rails s
-* From this repo- bower install, then npm start
-* visit localhost:8080/#map in your browser
+Contributors
+------------
+* [Heather Campbell](https://github.com/heather-camcam)
+* [Sarah Crawley](https://github.com/sara6)
+* [Michael Collins](https://github.com/michaeljcollinsuk)
+* [Harry Gordon](https://github.com/hwgordon247)
